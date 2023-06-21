@@ -76,3 +76,7 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+
+// Copy Code
+
